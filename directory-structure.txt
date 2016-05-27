@@ -1,0 +1,24 @@
+Raspberry Pi:
+
+$HOME/ (pyfoto, content, evercontent)
+$HOME/latest (fetch, everfetch, latest.html)
+
+AWS:
+
+$HOME/neural-style/ (oldest, generate, evergenerate)
+$HOME/neural-style/styles
+$HOME/neural-style/upload
+
+WEB:
+
+$HOME/ (push)
+$HOME/neural/ (gen-site)
+$HOME/neural/img/
+$HOME/neural/upload/
+$HOME/neural/upload-archive/
+
+/var/www/cgi-bin/
+
+
+
+
